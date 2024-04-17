@@ -1,0 +1,10 @@
+C:\Users\MONTIEL\source\repos\CRUD-MATRICULA\CRUD-MATRICULA\bin\Debug\CRUD-MATRICULA.exe.config
+C:\Users\MONTIEL\source\repos\CRUD-MATRICULA\CRUD-MATRICULA\bin\Debug\CRUD-MATRICULA.exe
+C:\Users\MONTIEL\source\repos\CRUD-MATRICULA\CRUD-MATRICULA\bin\Debug\CRUD-MATRICULA.pdb
+C:\Users\MONTIEL\source\repos\CRUD-MATRICULA\CRUD-MATRICULA\obj\Debug\CRUD-MATRICULA.csproj.AssemblyReference.cache
+C:\Users\MONTIEL\source\repos\CRUD-MATRICULA\CRUD-MATRICULA\obj\Debug\CRUD_MATRICULA.Form1.resources
+C:\Users\MONTIEL\source\repos\CRUD-MATRICULA\CRUD-MATRICULA\obj\Debug\CRUD_MATRICULA.Properties.Resources.resources
+C:\Users\MONTIEL\source\repos\CRUD-MATRICULA\CRUD-MATRICULA\obj\Debug\CRUD-MATRICULA.csproj.GenerateResource.cache
+C:\Users\MONTIEL\source\repos\CRUD-MATRICULA\CRUD-MATRICULA\obj\Debug\CRUD-MATRICULA.csproj.CoreCompileInputs.cache
+C:\Users\MONTIEL\source\repos\CRUD-MATRICULA\CRUD-MATRICULA\obj\Debug\CRUD-MATRICULA.exe
+C:\Users\MONTIEL\source\repos\CRUD-MATRICULA\CRUD-MATRICULA\obj\Debug\CRUD-MATRICULA.pdb
